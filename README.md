@@ -1,2 +1,1 @@
-##Ejercicio Git de la program Army
-###Cilfo
+Ejercicio Git de la program Army
